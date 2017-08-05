@@ -1,0 +1,15 @@
+img {
+  height: 100px;
+  width: 100px;
+}
+button {
+  border-radius: 10px;
+  background: white;
+}
+.header {
+  font-size: 70px;
+}
+body {
+  text-align: center;
+  background: #2ded3d;
+}
